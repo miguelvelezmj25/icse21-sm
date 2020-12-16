@@ -6,4 +6,5 @@ Performance-influence models can help stakeholders understand how and where conf
 ## Source Code
 
 - [Comprex](https://github.com/miguelvelezmj25/Comprex/tree/asej20)
+- [Iterative Dynamic Taint Analysis](https://github.com/miguelvelezmj25/subtrace-explorer)
 - [Subject Systems](https://github.com/miguelvelezmj25/performance-mapper-evaluation)
